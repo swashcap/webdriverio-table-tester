@@ -1,0 +1,15 @@
+{
+  "name": "webdriverio-table-tester",
+  "version": "1.0.0",
+  "description": "A tester project with WebdriverIO and HTML tables.",
+  "main": "index.js",
+  "scripts": {
+    "start": "java -jar selenium-server-standalone-2.45.0.jar",
+    "test": "node test.js"
+  },
+  "author": "Cory Reed <swashcap@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "webdriverio": "^2.4.5"
+  }
+}
