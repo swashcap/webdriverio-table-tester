@@ -4,12 +4,14 @@
   "description": "A tester project with WebdriverIO and HTML tables.",
   "main": "index.js",
   "scripts": {
+    "serve": "node ./node_modules/.bin/http-server",
     "start": "java -jar selenium-server-standalone-2.45.0.jar",
     "test": "node test.js"
   },
   "author": "Cory Reed <swashcap@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "http-server": "^0.8.0",
     "webdriverio": "^2.4.5"
   }
 }
