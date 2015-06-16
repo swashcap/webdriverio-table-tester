@@ -30,6 +30,7 @@ test`. This will output test results in the terminal.
 
 ## What Is Happening, Here?
 
-The code in _[test.js](/swashcap/webdriverio-table-tester/blob/master/test.js)_
+The code in 
+_[test.js](https://github.com/swashcap/webdriverio-table-tester/blob/master/test.js)_
 contains extensive comments. Go read it!
 
